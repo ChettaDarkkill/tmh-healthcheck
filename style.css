@@ -1,0 +1,21 @@
+.text-header{
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	background-color: #527bd7;
+	height: 20px;
+}
+.text-content{
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #000000;
+	text-align:center;
+}
+.hl-row1{
+	background-color: #FFF;
+}
+.hl-row2{
+	background-color: #eff3fc;
+}
