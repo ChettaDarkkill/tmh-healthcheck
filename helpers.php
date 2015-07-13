@@ -1,5 +1,4 @@
 <?php
-namespace tmh\healthcheck;
 
 function alert($str)
 {
@@ -105,3 +104,5 @@ function elog_time($starttime)
     // Return our display
     return $totaltime;
 }
+
+?>
